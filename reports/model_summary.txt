@@ -1,0 +1,21 @@
+HealthPulse Analytics — Model Results
+==================================================
+
+Best Model:        Random Forest
+AUC-ROC:           0.5583
+CV AUC (5-fold):   0.5624 +/- 0.0127
+Precision:         0.1253
+Recall:            0.3887
+F1-Score:          0.1896
+
+Top Predictive Features:
+   1. collection_rate
+   2. length_of_stay
+   3. charge_amount
+   4. revenue_gap
+   5. reimbursed_amt
+   6. bmi
+   7. age
+   8. payer_type_Medicaid
+   9. admission_month
+  10. department_Radiology
