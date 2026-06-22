@@ -1,0 +1,49 @@
+============================================================
+  HealthPulse — Data Quality Report
+  Generated: 2026-06-21 19:14:19
+============================================================
+
+TABLE: PATIENTS
+----------------------------------------
+  [   41 rows]  Duplicate MRN
+            → Keep first, drop rest
+  [    9 rows]  Age outside [18,95]
+            → Set to NaN, impute with median
+  [    0 rows]  BMI outside [15.0,60.0]
+            → Cap to valid range
+  [  241 rows]  Null BMI
+            → Impute with median
+  [  106 rows]  Null state
+            → Fill with Unknown
+  [   41 rows]  Total removed (dedup)
+            → Final: 4,999 rows
+
+TABLE: CLAIMS
+----------------------------------------
+  [   80 rows]  Duplicate claim_id
+            → Keep first
+  [    1 rows]  No matching patient
+            → Drop rows
+  [   15 rows]  Discharge before admission
+            → Swap dates
+  [    3 rows]  Charge outliers z>4.0
+            → Cap to 99th percentile
+  [    0 rows]  Reimbursement > charge
+            → Cap to charge amount
+  [   81 rows]  Total removed
+            → Final: 17,999 rows
+
+TABLE: BILLING
+----------------------------------------
+  [    1 rows]  No matching claim
+            → Drop rows
+
+FINAL STATS
+----------------------------------------
+  Total patients: 4,999
+  Total claims: 17,999
+  Date range: 2021-01-01 00:00:00 to 2024-12-31 00:00:00
+  Avg charge: $1,947.64
+  Collection rate: 76.9%
+  30-day readmit rate: 9.8%
+  Denial rate: 8.2%

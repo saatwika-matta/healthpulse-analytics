@@ -1,0 +1,12 @@
+HealthPulse Analytics — Key Findings
+==================================================
+
+Total claims:          18,079
+Unique patients:       4,384
+Revenue charged:       $35,211,456
+Revenue collected:     $27,135,317
+Revenue gap:           $8,076,138
+Collection rate:       76.89%
+30-day readmit rate:   9.82%
+Denial rate:           8.2%
+Avg length of stay:    3.04 days
