@@ -1,0 +1,958 @@
+{
+  "monthly_trend": [
+    {
+      "charge_amount": 776863.51,
+      "reimbursed_amt": 595054.57,
+      "revenue_gap": 181808.94,
+      "month": "2021-01",
+      "rolling_avg_3m": 595054.57,
+      "mom_growth_pct": NaN
+    },
+    {
+      "charge_amount": 734737.65,
+      "reimbursed_amt": 587246.59,
+      "revenue_gap": 147491.06,
+      "month": "2021-02",
+      "rolling_avg_3m": 591150.58,
+      "mom_growth_pct": -1.31
+    },
+    {
+      "charge_amount": 750507.88,
+      "reimbursed_amt": 574383.81,
+      "revenue_gap": 176124.07,
+      "month": "2021-03",
+      "rolling_avg_3m": 585561.66,
+      "mom_growth_pct": -2.19
+    },
+    {
+      "charge_amount": 715809.04,
+      "reimbursed_amt": 562965.81,
+      "revenue_gap": 152843.23,
+      "month": "2021-04",
+      "rolling_avg_3m": 574865.4,
+      "mom_growth_pct": -1.99
+    },
+    {
+      "charge_amount": 724627.22,
+      "reimbursed_amt": 567416.85,
+      "revenue_gap": 157210.37,
+      "month": "2021-05",
+      "rolling_avg_3m": 568255.49,
+      "mom_growth_pct": 0.79
+    },
+    {
+      "charge_amount": 809762.83,
+      "reimbursed_amt": 641345.48,
+      "revenue_gap": 168417.35,
+      "month": "2021-06",
+      "rolling_avg_3m": 590576.05,
+      "mom_growth_pct": 13.03
+    },
+    {
+      "charge_amount": 827064.74,
+      "reimbursed_amt": 635786.0,
+      "revenue_gap": 191278.74,
+      "month": "2021-07",
+      "rolling_avg_3m": 614849.44,
+      "mom_growth_pct": -0.87
+    },
+    {
+      "charge_amount": 811761.45,
+      "reimbursed_amt": 618981.31,
+      "revenue_gap": 192780.14,
+      "month": "2021-08",
+      "rolling_avg_3m": 632037.6,
+      "mom_growth_pct": -2.64
+    },
+    {
+      "charge_amount": 733517.15,
+      "reimbursed_amt": 565545.98,
+      "revenue_gap": 167971.17,
+      "month": "2021-09",
+      "rolling_avg_3m": 606771.1,
+      "mom_growth_pct": -8.63
+    },
+    {
+      "charge_amount": 865676.06,
+      "reimbursed_amt": 651257.8,
+      "revenue_gap": 214418.26,
+      "month": "2021-10",
+      "rolling_avg_3m": 611928.36,
+      "mom_growth_pct": 15.16
+    },
+    {
+      "charge_amount": 755717.38,
+      "reimbursed_amt": 564018.3,
+      "revenue_gap": 191699.08,
+      "month": "2021-11",
+      "rolling_avg_3m": 593607.36,
+      "mom_growth_pct": -13.4
+    },
+    {
+      "charge_amount": 716560.49,
+      "reimbursed_amt": 537860.29,
+      "revenue_gap": 178700.2,
+      "month": "2021-12",
+      "rolling_avg_3m": 584378.8,
+      "mom_growth_pct": -4.64
+    },
+    {
+      "charge_amount": 808458.86,
+      "reimbursed_amt": 611769.01,
+      "revenue_gap": 196689.85,
+      "month": "2022-01",
+      "rolling_avg_3m": 571215.87,
+      "mom_growth_pct": 13.74
+    },
+    {
+      "charge_amount": 566046.53,
+      "reimbursed_amt": 441590.94,
+      "revenue_gap": 124455.59,
+      "month": "2022-02",
+      "rolling_avg_3m": 530406.75,
+      "mom_growth_pct": -27.82
+    },
+    {
+      "charge_amount": 638885.59,
+      "reimbursed_amt": 495670.6,
+      "revenue_gap": 143214.99,
+      "month": "2022-03",
+      "rolling_avg_3m": 516343.52,
+      "mom_growth_pct": 12.25
+    },
+    {
+      "charge_amount": 622281.68,
+      "reimbursed_amt": 482926.9,
+      "revenue_gap": 139354.78,
+      "month": "2022-04",
+      "rolling_avg_3m": 473396.15,
+      "mom_growth_pct": -2.57
+    },
+    {
+      "charge_amount": 860909.93,
+      "reimbursed_amt": 653391.84,
+      "revenue_gap": 207518.09,
+      "month": "2022-05",
+      "rolling_avg_3m": 543996.45,
+      "mom_growth_pct": 35.3
+    },
+    {
+      "charge_amount": 802572.96,
+      "reimbursed_amt": 614137.26,
+      "revenue_gap": 188435.7,
+      "month": "2022-06",
+      "rolling_avg_3m": 583485.33,
+      "mom_growth_pct": -6.01
+    },
+    {
+      "charge_amount": 850899.85,
+      "reimbursed_amt": 660178.0,
+      "revenue_gap": 190721.85,
+      "month": "2022-07",
+      "rolling_avg_3m": 642569.03,
+      "mom_growth_pct": 7.5
+    },
+    {
+      "charge_amount": 653683.69,
+      "reimbursed_amt": 498394.53,
+      "revenue_gap": 155289.16,
+      "month": "2022-08",
+      "rolling_avg_3m": 590903.26,
+      "mom_growth_pct": -24.51
+    },
+    {
+      "charge_amount": 708958.17,
+      "reimbursed_amt": 544854.66,
+      "revenue_gap": 164103.51,
+      "month": "2022-09",
+      "rolling_avg_3m": 567809.06,
+      "mom_growth_pct": 9.32
+    },
+    {
+      "charge_amount": 839364.27,
+      "reimbursed_amt": 656234.79,
+      "revenue_gap": 183129.48,
+      "month": "2022-10",
+      "rolling_avg_3m": 566494.66,
+      "mom_growth_pct": 20.44
+    },
+    {
+      "charge_amount": 681391.29,
+      "reimbursed_amt": 523888.16,
+      "revenue_gap": 157503.13,
+      "month": "2022-11",
+      "rolling_avg_3m": 574992.54,
+      "mom_growth_pct": -20.17
+    },
+    {
+      "charge_amount": 782096.68,
+      "reimbursed_amt": 616848.06,
+      "revenue_gap": 165248.62,
+      "month": "2022-12",
+      "rolling_avg_3m": 598990.34,
+      "mom_growth_pct": 17.74
+    },
+    {
+      "charge_amount": 676815.31,
+      "reimbursed_amt": 531381.74,
+      "revenue_gap": 145433.57,
+      "month": "2023-01",
+      "rolling_avg_3m": 557372.65,
+      "mom_growth_pct": -13.86
+    },
+    {
+      "charge_amount": 586820.92,
+      "reimbursed_amt": 456882.23,
+      "revenue_gap": 129938.69,
+      "month": "2023-02",
+      "rolling_avg_3m": 535037.34,
+      "mom_growth_pct": -14.02
+    },
+    {
+      "charge_amount": 741920.23,
+      "reimbursed_amt": 578144.0,
+      "revenue_gap": 163776.23,
+      "month": "2023-03",
+      "rolling_avg_3m": 522135.99,
+      "mom_growth_pct": 26.54
+    },
+    {
+      "charge_amount": 505479.57,
+      "reimbursed_amt": 395554.51,
+      "revenue_gap": 109925.06,
+      "month": "2023-04",
+      "rolling_avg_3m": 476860.25,
+      "mom_growth_pct": -31.58
+    },
+    {
+      "charge_amount": 632697.65,
+      "reimbursed_amt": 484722.82,
+      "revenue_gap": 147974.83,
+      "month": "2023-05",
+      "rolling_avg_3m": 486140.44,
+      "mom_growth_pct": 22.54
+    },
+    {
+      "charge_amount": 688587.81,
+      "reimbursed_amt": 532408.33,
+      "revenue_gap": 156179.48,
+      "month": "2023-06",
+      "rolling_avg_3m": 470895.22,
+      "mom_growth_pct": 9.84
+    },
+    {
+      "charge_amount": 818565.03,
+      "reimbursed_amt": 633251.68,
+      "revenue_gap": 185313.35,
+      "month": "2023-07",
+      "rolling_avg_3m": 550127.61,
+      "mom_growth_pct": 18.94
+    },
+    {
+      "charge_amount": 750426.28,
+      "reimbursed_amt": 592878.11,
+      "revenue_gap": 157548.17,
+      "month": "2023-08",
+      "rolling_avg_3m": 586179.37,
+      "mom_growth_pct": -6.38
+    },
+    {
+      "charge_amount": 731420.84,
+      "reimbursed_amt": 552298.8,
+      "revenue_gap": 179122.04,
+      "month": "2023-09",
+      "rolling_avg_3m": 592809.53,
+      "mom_growth_pct": -6.84
+    },
+    {
+      "charge_amount": 768173.41,
+      "reimbursed_amt": 599255.52,
+      "revenue_gap": 168917.89,
+      "month": "2023-10",
+      "rolling_avg_3m": 581477.48,
+      "mom_growth_pct": 8.5
+    },
+    {
+      "charge_amount": 684959.95,
+      "reimbursed_amt": 532867.89,
+      "revenue_gap": 152092.06,
+      "month": "2023-11",
+      "rolling_avg_3m": 561474.07,
+      "mom_growth_pct": -11.08
+    },
+    {
+      "charge_amount": 661403.44,
+      "reimbursed_amt": 498545.39,
+      "revenue_gap": 162858.05,
+      "month": "2023-12",
+      "rolling_avg_3m": 543556.27,
+      "mom_growth_pct": -6.44
+    },
+    {
+      "charge_amount": 692054.14,
+      "reimbursed_amt": 542378.69,
+      "revenue_gap": 149675.45,
+      "month": "2024-01",
+      "rolling_avg_3m": 524597.32,
+      "mom_growth_pct": 8.79
+    },
+    {
+      "charge_amount": 705013.6,
+      "reimbursed_amt": 521538.7,
+      "revenue_gap": 183474.9,
+      "month": "2024-02",
+      "rolling_avg_3m": 520820.93,
+      "mom_growth_pct": -3.84
+    },
+    {
+      "charge_amount": 973079.82,
+      "reimbursed_amt": 736695.72,
+      "revenue_gap": 236384.1,
+      "month": "2024-03",
+      "rolling_avg_3m": 600204.37,
+      "mom_growth_pct": 41.25
+    },
+    {
+      "charge_amount": 679562.66,
+      "reimbursed_amt": 515987.87,
+      "revenue_gap": 163574.79,
+      "month": "2024-04",
+      "rolling_avg_3m": 591407.43,
+      "mom_growth_pct": -29.96
+    },
+    {
+      "charge_amount": 632999.72,
+      "reimbursed_amt": 484480.04,
+      "revenue_gap": 148519.68,
+      "month": "2024-05",
+      "rolling_avg_3m": 579054.54,
+      "mom_growth_pct": -6.11
+    },
+    {
+      "charge_amount": 810389.18,
+      "reimbursed_amt": 643821.89,
+      "revenue_gap": 166567.29,
+      "month": "2024-06",
+      "rolling_avg_3m": 548096.6,
+      "mom_growth_pct": 32.89
+    },
+    {
+      "charge_amount": 651821.97,
+      "reimbursed_amt": 474150.15,
+      "revenue_gap": 177671.82,
+      "month": "2024-07",
+      "rolling_avg_3m": 534150.69,
+      "mom_growth_pct": -26.35
+    },
+    {
+      "charge_amount": 848249.39,
+      "reimbursed_amt": 645544.64,
+      "revenue_gap": 202704.75,
+      "month": "2024-08",
+      "rolling_avg_3m": 587838.89,
+      "mom_growth_pct": 36.15
+    },
+    {
+      "charge_amount": 772866.53,
+      "reimbursed_amt": 588858.09,
+      "revenue_gap": 184008.44,
+      "month": "2024-09",
+      "rolling_avg_3m": 569517.63,
+      "mom_growth_pct": -8.78
+    },
+    {
+      "charge_amount": 679786.03,
+      "reimbursed_amt": 530359.98,
+      "revenue_gap": 149426.05,
+      "month": "2024-10",
+      "rolling_avg_3m": 588254.24,
+      "mom_growth_pct": -9.93
+    },
+    {
+      "charge_amount": 741116.92,
+      "reimbursed_amt": 589244.74,
+      "revenue_gap": 151872.18,
+      "month": "2024-11",
+      "rolling_avg_3m": 569487.6,
+      "mom_growth_pct": 11.1
+    },
+    {
+      "charge_amount": 739090.27,
+      "reimbursed_amt": 572318.35,
+      "revenue_gap": 166771.92,
+      "month": "2024-12",
+      "rolling_avg_3m": 563974.36,
+      "mom_growth_pct": -2.87
+    }
+  ],
+  "revenue_by_dept": [
+    {
+      "department": "Emergency",
+      "total_charged": 3823474.52,
+      "total_collected": 2973115.35,
+      "total_gap": 850359.17,
+      "avg_collection": 0.77,
+      "n_claims": 1811,
+      "denial_rate": 0.09,
+      "avg_los": 3.0,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 9.0
+    },
+    {
+      "department": "Pediatrics",
+      "total_charged": 3715389.27,
+      "total_collected": 2852537.61,
+      "total_gap": 862851.66,
+      "avg_collection": 0.77,
+      "n_claims": 1800,
+      "denial_rate": 0.08,
+      "avg_los": 3.0,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "department": "Orthopedics",
+      "total_charged": 3652705.43,
+      "total_collected": 2784916.8,
+      "total_gap": 867788.63,
+      "avg_collection": 0.76,
+      "n_claims": 1890,
+      "denial_rate": 0.09,
+      "avg_los": 3.1,
+      "avg_collection_pct": 76.0,
+      "denial_rate_pct": 9.0
+    },
+    {
+      "department": "Oncology",
+      "total_charged": 3607111.96,
+      "total_collected": 2757374.16,
+      "total_gap": 849737.8,
+      "avg_collection": 0.77,
+      "n_claims": 1815,
+      "denial_rate": 0.08,
+      "avg_los": 3.0,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "department": "General Surgery",
+      "total_charged": 3493829.2,
+      "total_collected": 2709678.07,
+      "total_gap": 784151.13,
+      "avg_collection": 0.77,
+      "n_claims": 1821,
+      "denial_rate": 0.07,
+      "avg_los": 3.1,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 7.0
+    },
+    {
+      "department": "Cardiology",
+      "total_charged": 3477864.49,
+      "total_collected": 2669330.35,
+      "total_gap": 808534.14,
+      "avg_collection": 0.77,
+      "n_claims": 1821,
+      "denial_rate": 0.08,
+      "avg_los": 3.0,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "department": "Internal Medicine",
+      "total_charged": 3445042.26,
+      "total_collected": 2688281.35,
+      "total_gap": 756760.91,
+      "avg_collection": 0.77,
+      "n_claims": 1814,
+      "denial_rate": 0.08,
+      "avg_los": 2.9,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "department": "Neurology",
+      "total_charged": 3386351.42,
+      "total_collected": 2618377.32,
+      "total_gap": 767974.1,
+      "avg_collection": 0.77,
+      "n_claims": 1761,
+      "denial_rate": 0.08,
+      "avg_los": 3.1,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "department": "Radiology",
+      "total_charged": 3382130.5,
+      "total_collected": 2614706.63,
+      "total_gap": 767423.87,
+      "avg_collection": 0.77,
+      "n_claims": 1810,
+      "denial_rate": 0.08,
+      "avg_los": 3.2,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "department": "Psychiatry",
+      "total_charged": 3227556.52,
+      "total_collected": 2466999.78,
+      "total_gap": 760556.74,
+      "avg_collection": 0.77,
+      "n_claims": 1736,
+      "denial_rate": 0.09,
+      "avg_los": 3.0,
+      "avg_collection_pct": 77.0,
+      "denial_rate_pct": 9.0
+    }
+  ],
+  "revenue_by_payer": [
+    {
+      "payer_type": "Medicaid",
+      "total_charged": 6959296.37,
+      "total_collected": 4407853.38,
+      "total_gap": 2551442.99,
+      "avg_collection": 0.63,
+      "n_claims": 3627,
+      "denial_rate": 0.09,
+      "avg_payment_delay": 21.54,
+      "avg_collection_pct": 63.0,
+      "denial_rate_pct": 9.0,
+      "leakage_pct": 36.7
+    },
+    {
+      "payer_type": "Medicare",
+      "total_charged": 9264844.69,
+      "total_collected": 7242040.67,
+      "total_gap": 2022804.02,
+      "avg_collection": 0.78,
+      "n_claims": 4534,
+      "denial_rate": 0.08,
+      "avg_payment_delay": 21.25,
+      "avg_collection_pct": 78.0,
+      "denial_rate_pct": 8.0,
+      "leakage_pct": 21.8
+    },
+    {
+      "payer_type": "BlueCross",
+      "total_charged": 6387831.22,
+      "total_collected": 5401385.22,
+      "total_gap": 986446.0,
+      "avg_collection": 0.85,
+      "n_claims": 3245,
+      "denial_rate": 0.08,
+      "avg_payment_delay": 21.96,
+      "avg_collection_pct": 85.0,
+      "denial_rate_pct": 8.0,
+      "leakage_pct": 15.4
+    },
+    {
+      "payer_type": "Aetna",
+      "total_charged": 4991052.57,
+      "total_collected": 4140831.47,
+      "total_gap": 850221.1,
+      "avg_collection": 0.83,
+      "n_claims": 2681,
+      "denial_rate": 0.09,
+      "avg_payment_delay": 21.67,
+      "avg_collection_pct": 83.0,
+      "denial_rate_pct": 9.0,
+      "leakage_pct": 17.0
+    },
+    {
+      "payer_type": "Self-Pay",
+      "total_charged": 970709.83,
+      "total_collected": 330569.66,
+      "total_gap": 640140.17,
+      "avg_collection": 0.34,
+      "n_claims": 524,
+      "denial_rate": 0.05,
+      "avg_payment_delay": 22.76,
+      "avg_collection_pct": 34.0,
+      "denial_rate_pct": 5.0,
+      "leakage_pct": 65.9
+    },
+    {
+      "payer_type": "UnitedHealth",
+      "total_charged": 4182821.52,
+      "total_collected": 3599030.93,
+      "total_gap": 583790.59,
+      "avg_collection": 0.86,
+      "n_claims": 2140,
+      "denial_rate": 0.08,
+      "avg_payment_delay": 21.4,
+      "avg_collection_pct": 86.0,
+      "denial_rate_pct": 8.0,
+      "leakage_pct": 14.0
+    },
+    {
+      "payer_type": "Cigna",
+      "total_charged": 2454899.37,
+      "total_collected": 2013606.09,
+      "total_gap": 441293.28,
+      "avg_collection": 0.82,
+      "n_claims": 1328,
+      "denial_rate": 0.08,
+      "avg_payment_delay": 21.76,
+      "avg_collection_pct": 82.0,
+      "denial_rate_pct": 8.0,
+      "leakage_pct": 18.0
+    }
+  ],
+  "denial_by_dept": [
+    {
+      "department": "Orthopedics",
+      "denial_rate": 0.09312169312169312,
+      "n_denied": 176,
+      "n_claims": 1890,
+      "denial_rate_pct": 9.31
+    },
+    {
+      "department": "Emergency",
+      "denial_rate": 0.09166206515737162,
+      "n_denied": 166,
+      "n_claims": 1811,
+      "denial_rate_pct": 9.17
+    },
+    {
+      "department": "Psychiatry",
+      "denial_rate": 0.08870967741935484,
+      "n_denied": 154,
+      "n_claims": 1736,
+      "denial_rate_pct": 8.87
+    },
+    {
+      "department": "Oncology",
+      "denial_rate": 0.08264462809917356,
+      "n_denied": 150,
+      "n_claims": 1815,
+      "denial_rate_pct": 8.26
+    },
+    {
+      "department": "Cardiology",
+      "denial_rate": 0.07962657880285558,
+      "n_denied": 145,
+      "n_claims": 1821,
+      "denial_rate_pct": 7.96
+    },
+    {
+      "department": "Pediatrics",
+      "denial_rate": 0.07888888888888888,
+      "n_denied": 142,
+      "n_claims": 1800,
+      "denial_rate_pct": 7.89
+    },
+    {
+      "department": "Internal Medicine",
+      "denial_rate": 0.07883131201764057,
+      "n_denied": 143,
+      "n_claims": 1814,
+      "denial_rate_pct": 7.88
+    },
+    {
+      "department": "Neurology",
+      "denial_rate": 0.07779670641680864,
+      "n_denied": 137,
+      "n_claims": 1761,
+      "denial_rate_pct": 7.78
+    },
+    {
+      "department": "Radiology",
+      "denial_rate": 0.07569060773480663,
+      "n_denied": 137,
+      "n_claims": 1810,
+      "denial_rate_pct": 7.57
+    },
+    {
+      "department": "General Surgery",
+      "denial_rate": 0.07248764415156507,
+      "n_denied": 132,
+      "n_claims": 1821,
+      "denial_rate_pct": 7.25
+    }
+  ],
+  "denial_by_payer": [
+    {
+      "payer_type": "Aetna",
+      "denial_rate": 0.09399477806788512,
+      "n_denied": 252,
+      "n_claims": 2681,
+      "denial_rate_pct": 9.4
+    },
+    {
+      "payer_type": "Medicaid",
+      "denial_rate": 0.08547008547008547,
+      "n_denied": 310,
+      "n_claims": 3627,
+      "denial_rate_pct": 8.55
+    },
+    {
+      "payer_type": "UnitedHealth",
+      "denial_rate": 0.08130841121495327,
+      "n_denied": 174,
+      "n_claims": 2140,
+      "denial_rate_pct": 8.13
+    },
+    {
+      "payer_type": "BlueCross",
+      "denial_rate": 0.0810477657935285,
+      "n_denied": 263,
+      "n_claims": 3245,
+      "denial_rate_pct": 8.1
+    },
+    {
+      "payer_type": "Cigna",
+      "denial_rate": 0.07906626506024096,
+      "n_denied": 105,
+      "n_claims": 1328,
+      "denial_rate_pct": 7.91
+    },
+    {
+      "payer_type": "Medicare",
+      "denial_rate": 0.07741508601676224,
+      "n_denied": 351,
+      "n_claims": 4534,
+      "denial_rate_pct": 7.74
+    },
+    {
+      "payer_type": "Self-Pay",
+      "denial_rate": 0.05152671755725191,
+      "n_denied": 27,
+      "n_claims": 524,
+      "denial_rate_pct": 5.15
+    }
+  ],
+  "quarterly_trend": [
+    {
+      "quarter": "2021Q1",
+      "total_charged": 2262109.04,
+      "total_collected": 1756684.97,
+      "total_gap": 505424.07,
+      "n_claims": 1094,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "quarter": "2021Q2",
+      "total_charged": 2250199.09,
+      "total_collected": 1771728.14,
+      "total_gap": 478470.95,
+      "n_claims": 1135,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "quarter": "2021Q3",
+      "total_charged": 2372343.34,
+      "total_collected": 1820313.29,
+      "total_gap": 552030.05,
+      "n_claims": 1152,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "quarter": "2021Q4",
+      "total_charged": 2337953.93,
+      "total_collected": 1753136.39,
+      "total_gap": 584817.54,
+      "n_claims": 1156,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "quarter": "2022Q1",
+      "total_charged": 2013390.98,
+      "total_collected": 1549030.55,
+      "total_gap": 464360.43,
+      "n_claims": 1157,
+      "yoy_growth_pct": -11.82
+    },
+    {
+      "quarter": "2022Q2",
+      "total_charged": 2285764.57,
+      "total_collected": 1750456.0,
+      "total_gap": 535308.57,
+      "n_claims": 1075,
+      "yoy_growth_pct": -1.2
+    },
+    {
+      "quarter": "2022Q3",
+      "total_charged": 2213541.71,
+      "total_collected": 1703427.19,
+      "total_gap": 510114.52,
+      "n_claims": 1164,
+      "yoy_growth_pct": -6.42
+    },
+    {
+      "quarter": "2022Q4",
+      "total_charged": 2302852.24,
+      "total_collected": 1796971.01,
+      "total_gap": 505881.23,
+      "n_claims": 1143,
+      "yoy_growth_pct": 2.5
+    },
+    {
+      "quarter": "2023Q1",
+      "total_charged": 2005556.46,
+      "total_collected": 1566407.97,
+      "total_gap": 439148.49,
+      "n_claims": 1086,
+      "yoy_growth_pct": 1.12
+    },
+    {
+      "quarter": "2023Q2",
+      "total_charged": 1826765.03,
+      "total_collected": 1412685.66,
+      "total_gap": 414079.37,
+      "n_claims": 1133,
+      "yoy_growth_pct": -19.3
+    },
+    {
+      "quarter": "2023Q3",
+      "total_charged": 2300412.15,
+      "total_collected": 1778428.59,
+      "total_gap": 521983.56,
+      "n_claims": 1124,
+      "yoy_growth_pct": 4.4
+    },
+    {
+      "quarter": "2023Q4",
+      "total_charged": 2114536.8,
+      "total_collected": 1630668.8,
+      "total_gap": 483868.0,
+      "n_claims": 1168,
+      "yoy_growth_pct": -9.25
+    },
+    {
+      "quarter": "2024Q1",
+      "total_charged": 2370147.56,
+      "total_collected": 1800613.11,
+      "total_gap": 569534.45,
+      "n_claims": 1131,
+      "yoy_growth_pct": 14.95
+    },
+    {
+      "quarter": "2024Q2",
+      "total_charged": 2122951.56,
+      "total_collected": 1644289.8,
+      "total_gap": 478661.76,
+      "n_claims": 1060,
+      "yoy_growth_pct": 16.39
+    },
+    {
+      "quarter": "2024Q3",
+      "total_charged": 2272937.89,
+      "total_collected": 1708552.88,
+      "total_gap": 564385.01,
+      "n_claims": 1176,
+      "yoy_growth_pct": -3.93
+    },
+    {
+      "quarter": "2024Q4",
+      "total_charged": 2159993.22,
+      "total_collected": 1691923.07,
+      "total_gap": 468070.15,
+      "n_claims": 1125,
+      "yoy_growth_pct": 3.76
+    }
+  ],
+  "revenue_by_cpt": [
+    {
+      "cpt_code": 27447,
+      "total_revenue": 22820047.57,
+      "total_collected": 17676068.17,
+      "n_procedures": 1778,
+      "avg_charge": 12834.67,
+      "denial_rate": 0.08,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "cpt_code": 70553,
+      "total_revenue": 4352047.44,
+      "total_collected": 3325411.67,
+      "n_procedures": 1829,
+      "avg_charge": 2379.47,
+      "denial_rate": 0.07,
+      "denial_rate_pct": 7.0
+    },
+    {
+      "cpt_code": 43239,
+      "total_revenue": 3334211.81,
+      "total_collected": 2554646.19,
+      "n_procedures": 1711,
+      "avg_charge": 1948.69,
+      "denial_rate": 0.08,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "cpt_code": 99285,
+      "total_revenue": 1647236.64,
+      "total_collected": 1259056.31,
+      "n_procedures": 1803,
+      "avg_charge": 913.61,
+      "denial_rate": 0.09,
+      "denial_rate_pct": 9.0
+    },
+    {
+      "cpt_code": 96413,
+      "total_revenue": 1270742.57,
+      "total_collected": 961034.73,
+      "n_procedures": 1791,
+      "avg_charge": 709.52,
+      "denial_rate": 0.09,
+      "denial_rate_pct": 9.0
+    },
+    {
+      "cpt_code": 71046,
+      "total_revenue": 602609.73,
+      "total_collected": 461174.17,
+      "n_procedures": 1847,
+      "avg_charge": 326.26,
+      "denial_rate": 0.08,
+      "denial_rate_pct": 8.0
+    },
+    {
+      "cpt_code": 99214,
+      "total_revenue": 446472.05,
+      "total_collected": 341011.83,
+      "n_procedures": 1872,
+      "avg_charge": 238.5,
+      "denial_rate": 0.09,
+      "denial_rate_pct": 9.0
+    },
+    {
+      "cpt_code": 99213,
+      "total_revenue": 297181.82,
+      "total_collected": 226445.08,
+      "n_procedures": 1827,
+      "avg_charge": 162.66,
+      "denial_rate": 0.09,
+      "denial_rate_pct": 9.0
+    },
+    {
+      "cpt_code": 80053,
+      "total_revenue": 260265.72,
+      "total_collected": 194597.67,
+      "n_procedures": 1816,
+      "avg_charge": 143.32,
+      "denial_rate": 0.07,
+      "denial_rate_pct": 7.0
+    },
+    {
+      "cpt_code": 93000,
+      "total_revenue": 180640.22,
+      "total_collected": 135871.6,
+      "n_procedures": 1805,
+      "avg_charge": 100.08,
+      "denial_rate": 0.08,
+      "denial_rate_pct": 8.0
+    }
+  ],
+  "revenue_kpis": {
+    "total_charged": 35211455.57,
+    "total_collected": 27135317.42,
+    "total_gap": 8076138.15,
+    "overall_collection_pct": 77.06,
+    "overall_denial_rate": 8.2,
+    "avg_payment_delay_days": 21.6,
+    "total_write_offs": 644526.58,
+    "avg_revenue_per_claim": 1500.93
+  }
+}
